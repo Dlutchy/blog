@@ -183,8 +183,3 @@ When I first tested nothing happened. That is because I had errors in the JavaSc
 1 — I assume you are using Microsoft Edge. Therefore Read the Debugging Documentation [ Get started debugging JavaScript — Microsoft Edge Development | Microsoft Learn](https://learn.microsoft.com/en-us/microsoft-edge/devtools-guide-chromium/javascript/).
 
 2 — In your Script remove remark out your lines (using//) until you find the bad line of code.
-
-## Conclusion
-
-Good luck and leave yourself plenty of time to resolve issues. Also there are plenty of resources in the Internet to help.
-
